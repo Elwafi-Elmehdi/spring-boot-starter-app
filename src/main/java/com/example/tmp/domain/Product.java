@@ -2,7 +2,6 @@ package com.example.tmp.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.Table;
 
 @Entity
 public class Product {
